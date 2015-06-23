@@ -14,6 +14,7 @@ some guide put in order for me to read.
   facebook出品的paper，动画效果太好了，赶超apple的原生app一大截。pop就是paper的动画库！
 - GPUImage(https://github.com/BradLarson/GPUImage)
   OS7出来时，很多好看的效果，其实都是对图像的各种处理（比如模糊效果）。图像处理看来以后也是iOS开发的必备技能之一了。而GPUImage，就是能快速处理各种图像效果的利器！
+
 ### 推荐方式二：
 - 首先，学习这类开源项目的主要目的是为了实现产品汪需求，如果不是这个目的，完全可以看Explore GitHub(https://github.com/explore)，当前最火的开源项目都在这里，当然你需要过滤一下语言。
 - 网络
